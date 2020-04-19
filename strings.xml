@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musicaly</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="top_albums">Top Albums</string>
+    <string name="stress_buster">Stress Buster</string>
+    <string name="best_of_artists">Best Of Artists</string>
+    <string name="chill">Chill</string>
+    <string name="romantic">Romantic</string>
+
+</resources>
